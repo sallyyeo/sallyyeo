@@ -26,7 +26,7 @@
 
 <h3 align="left">Projects I've Worked On:</h3>
 
-- **[Data Visualization & Storytelling](https://sallyyeo.github.io/DataVisualization501/)**: A project showcasing various data visualizations and storytelling techniques using R and Tableau.  
+- **[Data Visualization & Storytelling](https://sallyyeo.github.io/DataVisualization501/)**: A project showcasing various data visualizations and storytelling techniques using R Studio.  
 - **Project Name 2**: Add a brief description here.  
 - **Project Name 3**: Add a brief description here.  
 

@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **R Studio, IBM Modeler, Python**
 
-- 📫 How to reach me **sallyeo.sy@gmail.com**
+- 📫 How to reach me **sallyyeo001@suss.edu.sg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

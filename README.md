@@ -28,7 +28,8 @@
 
 - **[Data Visualization & Storytelling](https://sallyyeo.github.io/DataVisualization501/)**: A project showcasing various data visualizations and storytelling techniques using R Studio.  
 - **[Singapore Temperature Forecasting](https://sallyyeo.github.io/Forecasting557/)**: This project analyzes Singapore's temperature trends and forecasts future temperatures using time series models like Holt’s Linear Trend and ARIMAX.
-- **[Data Wrangling Project](https://sallyyeo.github.io/DataWrangling503/)**: A project focused on extracting, transforming, and analyzing data from auto-generated Zoom class transcripts.  
+- **[Data Wrangling Project](https://sallyyeo.github.io/DataWrangling503/)**: A project focused on extracting, transforming, and analyzing data from auto-generated Zoom class transcripts.
+- **To be continued...**  
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">

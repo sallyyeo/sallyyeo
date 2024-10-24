@@ -27,7 +27,7 @@
 <h3 align="left">Projects I've Worked On:</h3>
 
 - **[Data Visualization & Storytelling](https://sallyyeo.github.io/DataVisualization501/)**: A project showcasing various data visualizations and storytelling techniques using R Studio.  
-- **Project Name 2**: Add a brief description here.  
+- **[Singapore Temperature Forecasting](https://sallyyeo.github.io/Forecasting557/)**: This project analyzes Singapore's temperature trends and forecasts future temperatures using time series models like Holt’s Linear Trend and ARIMAX.
 - **Project Name 3**: Add a brief description here.  
 
 
